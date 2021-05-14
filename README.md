@@ -8,7 +8,7 @@
 * [requests](https://requests.readthedocs.io/en/master/user/install/#install)
 
 ## Usage
-Run AutoAtendance.py in a python environment.
+Run Logger.py in a python environment which is inside the Scraper Folder.
 
 ### Script Arguments
 ```
