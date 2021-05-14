@@ -119,6 +119,7 @@ def main(cred0):
                 "http://op2020.mitsgwalior.in/course/view.php?id=45",
                 "http://op2020.mitsgwalior.in/course/view.php?id=134",
                 "http://op2020.mitsgwalior.in/course/view.php?id=294",
+                "http://op2020.mitsgwalior.in/course/view.php?id=44",
             ]
 
         Details = Links.Attendance(session_requests, persist)
